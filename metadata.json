@@ -1,0 +1,6 @@
+{
+  "name": "PlayTune",
+  "description": "Mobile music streaming app featuring iTunes search, spotlight artist, quick filters, custom playlist/favorites, and a floating mini player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
